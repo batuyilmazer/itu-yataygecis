@@ -1,0 +1,61 @@
+[
+  { "id": "insaat-30",              "name": "İnşaat Mühendisliği (% 30 İngilizce)",                               "faculty": "İnşaat Fakültesi",                          "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "insaat-100",             "name": "İnşaat Mühendisliği (% 100 İngilizce)",                              "faculty": "İnşaat Fakültesi",                          "scoreType": "SAY", "language": "english" },
+  { "id": "cevre-30",               "name": "Çevre Mühendisliği (% 30 İngilizce)",                                "faculty": "İnşaat Fakültesi",                          "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "cevre-100",              "name": "Çevre Mühendisliği (% 100 İngilizce)",                               "faculty": "İnşaat Fakültesi",                          "scoreType": "SAY", "language": "english" },
+  { "id": "harita-30",              "name": "Harita Mühendisliği (% 30 İngilizce)",                               "faculty": "İnşaat Fakültesi",                          "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "harita-100",             "name": "Harita Mühendisliği (% 100 İngilizce)",                              "faculty": "İnşaat Fakültesi",                          "scoreType": "SAY", "language": "english" },
+
+  { "id": "mimarlik-30",            "name": "Mimarlık (% 30 İngilizce)",                                          "faculty": "Mimarlık Fakültesi",                         "scoreType": "EA",  "language": "30percent-english" },
+  { "id": "mimarlik-100",           "name": "Mimarlık (% 100 İngilizce)",                                         "faculty": "Mimarlık Fakültesi",                         "scoreType": "EA",  "language": "english" },
+  { "id": "sbp-30",                 "name": "Şehir ve Bölge Planlaması (% 30 İngilizce)",                         "faculty": "Mimarlık Fakültesi",                         "scoreType": "EA",  "language": "30percent-english" },
+  { "id": "sbp-100",                "name": "Şehir ve Bölge Planlaması (% 100 İngilizce)",                        "faculty": "Mimarlık Fakültesi",                         "scoreType": "EA",  "language": "english" },
+  { "id": "endustriyel-tasarim-100","name": "Endüstriyel Tasarım (% 100 İngilizce)",                              "faculty": "Mimarlık Fakültesi",                         "scoreType": "EA",  "language": "english" },
+  { "id": "ic-mimarlik-30",         "name": "İç Mimarlık (% 30 İngilizce)",                                       "faculty": "Mimarlık Fakültesi",                         "scoreType": "EA",  "language": "30percent-english" },
+  { "id": "peyzaj-100",             "name": "Peyzaj Mimarlığı (% 100 İngilizce)",                                 "faculty": "Mimarlık Fakültesi",                         "scoreType": "EA",  "language": "english" },
+
+  { "id": "makina-30",              "name": "Makina Mühendisliği (% 30 İngilizce)",                               "faculty": "Makina Fakültesi",                           "scoreType": "SAY", "language": "30percent-english" },
+
+  { "id": "elektronik-30",          "name": "Elektronik ve Haberleşme Mühendisliği (% 30 İngilizce)",             "faculty": "Elektrik-Elektronik Fakültesi",              "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "elektronik-100",         "name": "Elektronik ve Haberleşme Mühendisliği (% 100 İngilizce)",            "faculty": "Elektrik-Elektronik Fakültesi",              "scoreType": "SAY", "language": "english" },
+  { "id": "elektrik-30",            "name": "Elektrik Mühendisliği (% 30 İngilizce)",                             "faculty": "Elektrik-Elektronik Fakültesi",              "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "elektrik-100",           "name": "Elektrik Mühendisliği (% 100 İngilizce)",                            "faculty": "Elektrik-Elektronik Fakültesi",              "scoreType": "SAY", "language": "english" },
+  { "id": "kontrol-30",             "name": "Kontrol ve Otomasyon Mühendisliği (% 30 İngilizce)",                 "faculty": "Elektrik-Elektronik Fakültesi",              "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "kontrol-100",            "name": "Kontrol ve Otomasyon Mühendisliği (% 100 İngilizce)",                "faculty": "Elektrik-Elektronik Fakültesi",              "scoreType": "SAY", "language": "english" },
+
+  { "id": "maden-30",               "name": "Maden Mühendisliği (% 30 İngilizce)",                                "faculty": "Maden Fakültesi",                            "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "jeoloji-30",             "name": "Jeoloji Mühendisliği (% 30 İngilizce)",                              "faculty": "Maden Fakültesi",                            "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "jeofizik-30",            "name": "Jeofizik Mühendisliği (% 30 İngilizce)",                             "faculty": "Maden Fakültesi",                            "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "petrol-100",             "name": "Petrol ve Doğalgaz Mühendisliği (% 100 İngilizce)",                  "faculty": "Maden Fakültesi",                            "scoreType": "SAY", "language": "english" },
+  { "id": "cevher-30",              "name": "Cevher Hazırlama Mühendisliği (% 30 İngilizce)",                     "faculty": "Maden Fakültesi",                            "scoreType": "SAY", "language": "30percent-english" },
+
+  { "id": "kimya-muh-30",           "name": "Kimya Mühendisliği (% 30 İngilizce)",                                "faculty": "Kimya-Metalurji Fakültesi",                  "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "metalurji-30",           "name": "Metalurji ve Malzeme Mühendisliği (% 30 İngilizce)",                 "faculty": "Kimya-Metalurji Fakültesi",                  "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "metalurji-100",          "name": "Metalurji ve Malzeme Mühendisliği (% 100 İngilizce)",                "faculty": "Kimya-Metalurji Fakültesi",                  "scoreType": "SAY", "language": "english" },
+  { "id": "gida-30",                "name": "Gıda Mühendisliği (% 30 İngilizce)",                                 "faculty": "Kimya-Metalurji Fakültesi",                  "scoreType": "SAY", "language": "30percent-english" },
+
+  { "id": "isletme-100",            "name": "İşletme Mühendisliği (% 100 İngilizce)",                             "faculty": "İşletme Fakültesi",                          "scoreType": "EA",  "language": "english" },
+  { "id": "endustri-30",            "name": "Endüstri Mühendisliği (% 30 İngilizce)",                             "faculty": "İşletme Fakültesi",                          "scoreType": "EA",  "language": "30percent-english" },
+  { "id": "endustri-100",           "name": "Endüstri Mühendisliği (% 100 İngilizce)",                            "faculty": "İşletme Fakültesi",                          "scoreType": "EA",  "language": "english" },
+  { "id": "ekonomi-100",            "name": "Ekonomi (% 100 İngilizce)",                                          "faculty": "İşletme Fakültesi",                          "scoreType": "EA",  "language": "english" },
+
+  { "id": "gemi-insaati-30",        "name": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği (% 30 İngilizce)",     "faculty": "Gemi İnşaatı ve Deniz Bilimleri Fakültesi",  "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "gemi-deniz-tek-30",      "name": "Gemi ve Deniz Teknolojisi Mühendisliği (% 30 İngilizce)",           "faculty": "Gemi İnşaatı ve Deniz Bilimleri Fakültesi",  "scoreType": "SAY", "language": "30percent-english" },
+
+  { "id": "matematik-30",           "name": "Matematik Mühendisliği (% 30 İngilizce)",                            "faculty": "Fen-Edebiyat Fakültesi",                     "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "fizik-30",               "name": "Fizik Mühendisliği (% 30 İngilizce)",                                "faculty": "Fen-Edebiyat Fakültesi",                     "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "kimya-fen-30",           "name": "Kimya (% 30 İngilizce)",                                             "faculty": "Fen-Edebiyat Fakültesi",                     "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "mol-biyoloji-100",       "name": "Moleküler Biyoloji ve Genetik (% 100 İngilizce)",                    "faculty": "Fen-Edebiyat Fakültesi",                     "scoreType": "SAY", "language": "english" },
+
+  { "id": "ucak-30",                "name": "Uçak Mühendisliği (% 30 İngilizce)",                                 "faculty": "Uçak ve Uzay Bilimleri Fakültesi",           "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "uzay-100",               "name": "Uzay Mühendisliği (% 100 İngilizce)",                                "faculty": "Uçak ve Uzay Bilimleri Fakültesi",           "scoreType": "SAY", "language": "english" },
+  { "id": "iklim-bilimi-30",        "name": "İklim Bilimi ve Meteoroloji Mühendisliği (% 30 İngilizce)",          "faculty": "Uçak ve Uzay Bilimleri Fakültesi",           "scoreType": "SAY", "language": "30percent-english" },
+
+  { "id": "gemi-makineleri-30",     "name": "Gemi Makinaları İşletme Mühendisliği (% 30 İngilizce)",             "faculty": "Denizcilik Fakültesi",                       "scoreType": "SAY", "language": "30percent-english" },
+  { "id": "deniz-ulastirma-30",     "name": "Deniz Ulaştırma İşletme Mühendisliği (% 30 İngilizce)",             "faculty": "Denizcilik Fakültesi",                       "scoreType": "SAY", "language": "30percent-english" },
+
+  { "id": "tekstil-100",            "name": "Tekstil Mühendisliği (% 100 İngilizce)",                             "faculty": "Tekstil Teknolojileri ve Tasarımı Fakültesi","scoreType": "SAY", "language": "english" },
+
+  { "id": "bilgisayar-100",         "name": "Bilgisayar Mühendisliği (% 100 İngilizce)",                          "faculty": "Bilgisayar ve Bilişim Fakültesi",            "scoreType": "SAY", "language": "english" },
+  { "id": "yapay-zeka-100",         "name": "Yapay Zeka ve Veri Mühendisliği (% 100 İngilizce)",                  "faculty": "Bilgisayar ve Bilişim Fakültesi",            "scoreType": "SAY", "language": "english" }
+]

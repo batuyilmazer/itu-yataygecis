@@ -1,0 +1,64 @@
+{
+  "_source": "https://www.sis.itu.edu.tr/TR/ogrenci/lisans/cap-yandal-yatay-gecis/202410/202410_ituiciyatay_taban_tavan_puanlari.htm",
+  "_year": "2023-2024",
+
+  "insaat-30":               { "semester3": { "minScore": 0.80504, "maxScore": 0.83046, "quota": 4, "placed": 2 },  "semester5": null },
+  "insaat-100":              { "semester3": { "minScore": 0.81851, "maxScore": 0.81851, "quota": 1, "placed": 1 },  "semester5": null },
+  "cevre-30":                { "semester3": { "minScore": null,    "maxScore": null,    "quota": 6, "placed": 0 },  "semester5": { "minScore": null, "maxScore": null, "quota": 2, "placed": 0 } },
+  "cevre-100":               { "semester3": { "minScore": null,    "maxScore": null,    "quota": 4, "placed": 0 },  "semester5": { "minScore": null, "maxScore": null, "quota": 1, "placed": 0 } },
+  "harita-30":               { "semester3": { "minScore": null,    "maxScore": null,    "quota": 6, "placed": 0 },  "semester5": null },
+  "harita-100":              { "semester3": { "minScore": null,    "maxScore": null,    "quota": 3, "placed": 0 },  "semester5": null },
+
+  "mimarlik-30":             { "semester3": { "minScore": 0.87457, "maxScore": 0.90665, "quota": 3, "placed": 3 },  "semester5": { "minScore": 0.83331, "maxScore": 0.84023, "quota": 3, "placed": 3 } },
+  "mimarlik-100":            { "semester3": { "minScore": 0.89926, "maxScore": 0.91894, "quota": 2, "placed": 2 },  "semester5": { "minScore": 0.83468, "maxScore": 0.83522, "quota": 2, "placed": 2 } },
+  "sbp-30":                  { "semester3": { "minScore": null,    "maxScore": null,    "quota": 3, "placed": 0 },  "semester5": { "minScore": null, "maxScore": null, "quota": 3, "placed": 0 } },
+  "sbp-100":                 { "semester3": { "minScore": null,    "maxScore": null,    "quota": 3, "placed": 0 },  "semester5": { "minScore": null, "maxScore": null, "quota": 3, "placed": 0 } },
+  "endustriyel-tasarim-100": { "semester3": { "minScore": 0.83106, "maxScore": 0.83106, "quota": 1, "placed": 1 },  "semester5": { "minScore": 0.87549, "maxScore": 0.87549, "quota": 1, "placed": 1 } },
+  "ic-mimarlik-30":          { "semester3": { "minScore": 0.78974, "maxScore": 0.90303, "quota": 2, "placed": 2 },  "semester5": { "minScore": 0.79398, "maxScore": 0.79398, "quota": 1, "placed": 1 } },
+  "peyzaj-100":              { "semester3": { "minScore": null,    "maxScore": null,    "quota": 3, "placed": 0 },  "semester5": { "minScore": null, "maxScore": null, "quota": 1, "placed": 0 } },
+
+  "makina-30":               { "semester3": { "minScore": 0.77569, "maxScore": 0.80796, "quota": 8, "placed": 4 },  "semester5": { "minScore": null, "maxScore": null, "quota": 1, "placed": 0 } },
+
+  "elektronik-30":           { "semester3": { "minScore": 0.90505, "maxScore": 0.96943, "quota": 4, "placed": 4 },  "semester5": { "minScore": 0.78358, "maxScore": 0.92751, "quota": 6, "placed": 5 } },
+  "elektronik-100":          { "semester3": { "minScore": 0.90699, "maxScore": 0.91696, "quota": 3, "placed": 3 },  "semester5": { "minScore": 0.85283, "maxScore": 0.94988, "quota": 4, "placed": 2 } },
+  "elektrik-30":             { "semester3": { "minScore": 0.82472, "maxScore": 0.9927,  "quota": 6, "placed": 6 },  "semester5": { "minScore": null,    "maxScore": null,    "quota": 3, "placed": 0 } },
+  "elektrik-100":            { "semester3": { "minScore": 0.70371, "maxScore": 0.76591, "quota": 3, "placed": 2 },  "semester5": { "minScore": null,    "maxScore": null,    "quota": 2, "placed": 0 } },
+  "kontrol-30":              { "semester3": { "minScore": 0.86941, "maxScore": 0.90456, "quota": 3, "placed": 3 },  "semester5": { "minScore": 0.90455, "maxScore": 0.90455, "quota": 3, "placed": 1 } },
+  "kontrol-100":             { "semester3": { "minScore": 0.89448, "maxScore": 0.91993, "quota": 2, "placed": 2 },  "semester5": { "minScore": null,    "maxScore": null,    "quota": 2, "placed": 0 } },
+
+  "maden-30":                { "semester3": { "minScore": null,    "maxScore": null,    "quota": 4, "placed": 0 },  "semester5": { "minScore": null, "maxScore": null, "quota": 2, "placed": 0 } },
+  "jeoloji-30":              { "semester3": { "minScore": null,    "maxScore": null,    "quota": 4, "placed": 0 },  "semester5": { "minScore": null, "maxScore": null, "quota": 4, "placed": 0 } },
+  "jeofizik-30":             { "semester3": { "minScore": null,    "maxScore": null,    "quota": 3, "placed": 0 },  "semester5": { "minScore": null, "maxScore": null, "quota": 2, "placed": 0 } },
+  "petrol-100":              { "semester3": { "minScore": 0.81899, "maxScore": 0.81899, "quota": 3, "placed": 1 },  "semester5": { "minScore": null, "maxScore": null, "quota": 1, "placed": 0 } },
+  "cevher-30":               { "semester3": { "minScore": null,    "maxScore": null,    "quota": 3, "placed": 0 },  "semester5": { "minScore": null, "maxScore": null, "quota": 2, "placed": 0 } },
+
+  "kimya-muh-30":            { "semester3": { "minScore": 0.84158, "maxScore": 0.84724, "quota": 3, "placed": 2 },  "semester5": { "minScore": 0.81566, "maxScore": 0.84706, "quota": 3, "placed": 2 } },
+  "metalurji-30":            { "semester3": { "minScore": 0.82264, "maxScore": 0.87489, "quota": 5, "placed": 2 },  "semester5": null },
+  "metalurji-100":           { "semester3": { "minScore": 0.71616, "maxScore": 0.71616, "quota": 5, "placed": 1 },  "semester5": null },
+  "gida-30":                 { "semester3": { "minScore": null,    "maxScore": null,    "quota": 2, "placed": 0 },  "semester5": null },
+
+  "isletme-100":             { "semester3": { "minScore": 0.83777, "maxScore": 0.88358, "quota": 6, "placed": 6 },  "semester5": null },
+  "endustri-30":             { "semester3": { "minScore": 0.86249, "maxScore": 0.93448, "quota": 5, "placed": 5 },  "semester5": null },
+  "endustri-100":            { "semester3": { "minScore": 0.89606, "maxScore": 0.94658, "quota": 3, "placed": 3 },  "semester5": null },
+  "ekonomi-100":             { "semester3": { "minScore": 0.8005,  "maxScore": 0.88521, "quota": 3, "placed": 3 },  "semester5": { "minScore": null, "maxScore": null, "quota": 1, "placed": 0 } },
+
+  "gemi-insaati-30":         { "semester3": { "minScore": null,    "maxScore": null,    "quota": 3, "placed": 0 },  "semester5": { "minScore": 0.73745, "maxScore": 0.81273, "quota": 3, "placed": 2 } },
+  "gemi-deniz-tek-30":       { "semester3": { "minScore": null,    "maxScore": null,    "quota": 2, "placed": 0 },  "semester5": { "minScore": null,    "maxScore": null,    "quota": 1, "placed": 0 } },
+
+  "matematik-30":            { "semester3": { "minScore": 0.91397, "maxScore": 0.91397, "quota": 1, "placed": 1 },  "semester5": null },
+  "fizik-30":                { "semester3": { "minScore": 0.85975, "maxScore": 0.85975, "quota": 3, "placed": 1 },  "semester5": { "minScore": null, "maxScore": null, "quota": 3, "placed": 0 } },
+  "kimya-fen-30":            { "semester3": { "minScore": null,    "maxScore": null,    "quota": 2, "placed": 0 },  "semester5": { "minScore": null, "maxScore": null, "quota": 2, "placed": 0 } },
+  "mol-biyoloji-100":        { "semester3": { "minScore": 0.78024, "maxScore": 0.78024, "quota": 1, "placed": 1 },  "semester5": { "minScore": null, "maxScore": null, "quota": 1, "placed": 0 } },
+
+  "ucak-30":                 { "semester3": { "minScore": 0.88676, "maxScore": 0.91874, "quota": 2, "placed": 2 },  "semester5": { "minScore": 0.91158, "maxScore": 0.91158, "quota": 2, "placed": 1 } },
+  "uzay-100":                { "semester3": { "minScore": 0.76075, "maxScore": 0.80878, "quota": 3, "placed": 3 },  "semester5": { "minScore": null,    "maxScore": null,    "quota": 2, "placed": 0 } },
+  "iklim-bilimi-30":         { "semester3": { "minScore": null,    "maxScore": null,    "quota": 4, "placed": 0 },  "semester5": { "minScore": null,    "maxScore": null,    "quota": 2, "placed": 0 } },
+
+  "gemi-makineleri-30":      { "semester3": { "minScore": null,    "maxScore": null,    "quota": 3, "placed": 0 },  "semester5": null },
+  "deniz-ulastirma-30":      { "semester3": { "minScore": 0.80734, "maxScore": 0.80734, "quota": 3, "placed": 1 },  "semester5": { "minScore": null, "maxScore": null, "quota": 2, "placed": 0 } },
+
+  "tekstil-100":             { "semester3": { "minScore": 0.77693, "maxScore": 0.77693, "quota": 3, "placed": 1 },  "semester5": null },
+
+  "bilgisayar-100":          { "semester3": { "minScore": 0.93037, "maxScore": 0.97415, "quota": 3, "placed": 3 },  "semester5": { "minScore": null,    "maxScore": null,    "quota": 1, "placed": 0 } },
+  "yapay-zeka-100":          { "semester3": { "minScore": 0.99682, "maxScore": 0.99682, "quota": 1, "placed": 1 },  "semester5": { "minScore": null,    "maxScore": null,    "quota": 1, "placed": 0 } }
+}
